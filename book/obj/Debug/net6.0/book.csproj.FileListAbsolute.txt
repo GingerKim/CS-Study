@@ -1,0 +1,15 @@
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.csproj.AssemblyReference.cache
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.AssemblyInfoInputs.cache
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.AssemblyInfo.cs
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.csproj.CoreCompileInputs.cache
+C:\Users\1302\Desktop\Study\book\bin\Debug\net6.0\book.exe
+C:\Users\1302\Desktop\Study\book\bin\Debug\net6.0\book.deps.json
+C:\Users\1302\Desktop\Study\book\bin\Debug\net6.0\book.runtimeconfig.json
+C:\Users\1302\Desktop\Study\book\bin\Debug\net6.0\book.dll
+C:\Users\1302\Desktop\Study\book\bin\Debug\net6.0\book.pdb
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.dll
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\refint\book.dll
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.pdb
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\book.genruntimeconfig.cache
+C:\Users\1302\Desktop\Study\book\obj\Debug\net6.0\ref\book.dll
