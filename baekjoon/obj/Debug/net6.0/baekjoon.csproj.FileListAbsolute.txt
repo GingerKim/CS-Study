@@ -1,0 +1,15 @@
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.csproj.AssemblyReference.cache
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.AssemblyInfoInputs.cache
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.AssemblyInfo.cs
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.csproj.CoreCompileInputs.cache
+C:\Users\1302\Desktop\Study\baekjoon\bin\Debug\net6.0\baekjoon.exe
+C:\Users\1302\Desktop\Study\baekjoon\bin\Debug\net6.0\baekjoon.deps.json
+C:\Users\1302\Desktop\Study\baekjoon\bin\Debug\net6.0\baekjoon.runtimeconfig.json
+C:\Users\1302\Desktop\Study\baekjoon\bin\Debug\net6.0\baekjoon.dll
+C:\Users\1302\Desktop\Study\baekjoon\bin\Debug\net6.0\baekjoon.pdb
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.dll
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\refint\baekjoon.dll
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.pdb
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\baekjoon.genruntimeconfig.cache
+C:\Users\1302\Desktop\Study\baekjoon\obj\Debug\net6.0\ref\baekjoon.dll
