@@ -1,0 +1,15 @@
+C:\Users\1302\Desktop\Study\Chapter5\bin\Release\net6.0\Chapter05.exe
+C:\Users\1302\Desktop\Study\Chapter5\bin\Release\net6.0\Chapter05.deps.json
+C:\Users\1302\Desktop\Study\Chapter5\bin\Release\net6.0\Chapter05.runtimeconfig.json
+C:\Users\1302\Desktop\Study\Chapter5\bin\Release\net6.0\Chapter05.dll
+C:\Users\1302\Desktop\Study\Chapter5\bin\Release\net6.0\Chapter05.pdb
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.csproj.AssemblyReference.cache
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.AssemblyInfoInputs.cache
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.AssemblyInfo.cs
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.csproj.CoreCompileInputs.cache
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.dll
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\refint\Chapter05.dll
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.pdb
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\Chapter05.genruntimeconfig.cache
+C:\Users\1302\Desktop\Study\Chapter5\obj\Release\net6.0\ref\Chapter05.dll
